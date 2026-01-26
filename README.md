@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Aishwarya 👋
 
-<!--
-**Aishwarya1025/Aishwarya1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & Data Science Student  
+💡 Aspiring Data Analyst & Open Source Contributor  
 
-Here are some ideas to get you started:
+I enjoy coding in Python, working with data, and contributing to open-source projects through clean code and well-written documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools
+
+### 💻 Programming & Coding
+- Python
+- Basic Java
+- Problem Solving (Beginner–Intermediate)
+
+### 📊 Data & Analytics
+- Data Analysis (Pandas, NumPy)
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib – basics)
+- Basics of Machine Learning
+
+### 🧠 Core Concepts
+- Statistics (Basics)
+- Data Cleaning & Preprocessing
+- Feature Understanding
+
+### 🌱 Open Source & Tools
+- Git & GitHub
+- Writing & Improving Documentation (README, Markdown)
+- Pull Requests & Issue Tracking
+
+## 🚀 What I'm Doing Now
+- Improving my GitHub profile and consistency
+- Contributing to open-source projects (code + documentation)
+- Building small projects in Python and Data Analytics
+
+## 🎯 Goals
+- Become a strong Data Analyst / Data Scientist
+- Actively contribute to open source
+- Build a solid and honest technical portfolio
+
+📫 LinkedIn: https://www.linkedin.com/in/v-aishwarya-7a032127b
