@@ -3,19 +3,19 @@
 🎓 AI & Data Science Student  
 💡 Aspiring Data Analyst & Open Source Contributor  
 
-I enjoy coding in Python, working with data, and contributing to open-source projects through clean code and well-written documentation.
+I enjoy coding in Python,Java working with data, and contributing to open-source projects through clean code and well-written documentation.
 
 ## 🔧 Skills & Tools
 
 ### 💻 Programming & Coding
-- Python
+- Python 
 - Basic Java
-- Problem Solving (Beginner–Intermediate)
+- Problem Solving
 
 ### 📊 Data & Analytics
 - Data Analysis (Pandas, NumPy)
 - Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib – basics)
+- Data Visualization (Matplotlib , powerBI)
 - Basics of Machine Learning
 
 ### 🧠 Core Concepts
