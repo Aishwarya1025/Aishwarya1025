@@ -27,6 +27,9 @@ I enjoy coding in Python, working with data, and contributing to open-source pro
 - Git & GitHub
 - Writing & Improving Documentation (README, Markdown)
 - Pull Requests & Issue Tracking
+-  Maintaining a beginner-friendly Python repo with good first issues  
+👉 <repo-link>
+
 
 ## 🚀 What I'm Doing Now
 - Improving my GitHub profile and consistency
