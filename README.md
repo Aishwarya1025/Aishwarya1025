@@ -1,44 +1,38 @@
 # Hi, I'm Aishwarya 👋
 
-🎓 AI & Data Science Student  
-💡 Aspiring Data Analyst & Open Source Contributor  
+### 👩‍🎓 Aspiring Data Scientist | AI & ML Enthusiast
 
-I enjoy coding in Python,Java working with data, and contributing to open-source projects through clean code and well-written documentation.
+📍 Chennai, Tamil Nadu
 
-## 🔧 Skills & Tools
+---
 
-### 💻 Programming & Coding
-- Python 
-- Basic Java
-- Problem Solving
+### 🔭 I’m currently working on
+- Data Science projects
+- Machine Learning models
+- Portfolio improvements
 
-### 📊 Data & Analytics
-- Data Analysis (Pandas, NumPy)
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib , powerBI)
-- Basics of Machine Learning
+---
 
-### 🧠 Core Concepts
-- Statistics (Basics)
-- Data Cleaning & Preprocessing
-- Feature Understanding
+### 💻 Tech Skills & Tools
 
-### 🌱 Open Source & Tools
-- Git & GitHub
-- Writing & Improving Documentation (README, Markdown)
-- Pull Requests & Issue Tracking
--  Maintaining a beginner-friendly Python repo with good first issues   
-👉 <https://github.com/Aishwarya1025/python-good-first-issue>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F0DB4F?style=for-the-badge&logo=machinelearning&logoColor=black)
 
+---
 
-## 🚀 What I'm Doing Now
-- Improving my GitHub profile and consistency
-- Contributing to open-source projects (code + documentation)
-- Building small projects in Python and Data Analytics
+### 📫 Connect with me
 
-## 🎯 Goals
-- Become a strong Data Analyst / Data Scientist
-- Actively contribute to open source
-- Build a solid and honest technical portfolio
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-aishwarya-7a032127b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryavetriselvan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://Aishwarya1025.github.io/portfolio/)
 
-📫 LinkedIn: https://www.linkedin.com/in/v-aishwarya-7a032127b
+---
+
+### ⭐ My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aishwarya1025&show_icons=true&theme=dark)
+
