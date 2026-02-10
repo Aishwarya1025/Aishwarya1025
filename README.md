@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-  <h1 style="font-size:42px; margin-bottom:4px;">Aishwarya V</h1>
+  <h1 style="font-size:42px; margin-bottom:4px;">hey! I'm Aishwarya </h1>
   <h3 style="font-weight:500;">Data Scientist • Machine Learning Engineer • AI Enthusiast</h3>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=2800&pause=700&color=4CAF50&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Intelligence;Machine+Learning+%7C+Analytics+%7C+AI;Building+Real-World+ML+Solutions;Focused+on+Growth+%26+Excellence" />
